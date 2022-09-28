@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'ya1in 碎碎念'
-  domain: 'https://www.notion.so/MyBlog-3a41f751eab14464b70ed7b5ccc4b105'
-  author: 'ya1in
+  name: 'ya1in 碎碎念',
+  domain: 'https://www.notion.so/MyBlog-3a41f751eab14464b70ed7b5ccc4b105',
+  author: 'ya1in',
 
   // open graph metadata (optional)
-  description: 'ya1in 所见所闻所感'
+  description: 'ya1in 所见所闻所感',
 
   // social usernames (optional)
   // tter: 'transitive_bs',
