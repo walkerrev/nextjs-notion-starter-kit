@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '7875426197cf461698809def95960ebf',
+  rootNotionPageId: 'https://olivine-fisherman-2ce.notion.site/Yalin-s-Blog-3a41f751eab14464b70ed7b5ccc4b105',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'ya1in 碎碎念',
-  domain: 'https://www.notion.so/MyBlog-3a41f751eab14464b70ed7b5ccc4b105',
+  domain: 'blog.766441789.xyz',
   author: 'ya1in',
 
   // open graph metadata (optional)
